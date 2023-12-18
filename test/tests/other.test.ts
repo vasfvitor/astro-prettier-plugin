@@ -126,3 +126,5 @@ test(
 test('Can ignore self-closing elements', files, 'other/ignore-self-close');
 
 test('can format spread attributes', files, 'other/spread-attributes');
+
+test('Can format SVG', files, 'other/svg');
